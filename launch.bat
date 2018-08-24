@@ -1,1 +1,1 @@
-pm2 start WizRpc.js --watching
+pm2 start WizRPC.js --watch
